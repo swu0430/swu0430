@@ -28,4 +28,4 @@ Currently, I'm working as a GUI developer for a Penn Engineering robotics resear
 ### That's all for now! :v:
 Before you go, perhaps you'll enjoy a custom word/picture version of [Codenames](https://detective-dingo.web.app/#/). This was my first web app project and a fun quarantine project for friends based on one of my favorite board games. 
 
-Anwyays, thanks for stopping by! But mainly, stay classy.
+Anyways, thanks for stopping by! But mainly, stay classy.
