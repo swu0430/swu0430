@@ -3,7 +3,7 @@
 Welcome! I'm currently a graduate student at the University of Pennsylvania pursuing a Master's of Computer and Information Technology (MCIT) degree as well as an MBA at Wharton. I'm an aspiring software engineer who is passionate about improving my skills as a full stack developer. Outside of programming, I'm a :tennis: and :rocket: enthusiast!
 
 ### What I'm focusing on :hammer_and_wrench:
-Currently, I'm working as a GUI developer for a Penn Engineering robotics research team at Kod*Lab to maintain a website for collecting experimental data from expert geoscientists using primarily React.
+Currently, I'm working as a GUI developer for a Penn Engineering robotics research team at [Kod*Lab](https://kodlab.seas.upenn.edu/) to maintain a website for collecting experimental data from expert geoscientists using primarily React.
 
 ### Technologies I've used :computer:
 <p align="left">
