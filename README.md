@@ -1,4 +1,4 @@
-### Hi I'm Steven 👋
+### Hi, I'm Steven 👋
 
 Welcome! I'm currently a graduate student at the University of Pennsylvania pursuing a Master's of Computer and Information Technology (MCIT) degree as well as an MBA at Wharton. I'm an aspiring software engineer who is passionate about improving my skills as a full stack developer. Outside of programming, I'm a :tennis: enthusiast!
 
